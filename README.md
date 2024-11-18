@@ -27,7 +27,7 @@ a Lexical Text Editor and Styled Components for enhanced customization and user 
 providing an efficient note-taking tool. 
   - Developed an Email Template app with React.js and TypeScript, integrating a Lexical Text 
 Editor and Tailwind CSS for improved customization and user interaction. 
--
+
   
 ---
 
